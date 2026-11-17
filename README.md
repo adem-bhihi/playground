@@ -1,3 +1,5 @@
 # playground
-Mes premiers scripts sous Linux
-Auteur : Adem
+
+Mes premiers scripts sous Linux.
+
+Auteur : Adem 
